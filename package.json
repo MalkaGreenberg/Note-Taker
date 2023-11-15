@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "uniqid": "^5.3.0"
+  },
+  "engines": {
+    "node": "14.17.3"
   }
 }
