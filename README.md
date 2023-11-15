@@ -12,7 +12,7 @@
   - [Questions](#questions)
 
   ## Installation
-  click on this link to view the deployed aplication
+  [click on this link to view the deployed aplication](https://notes-tracker-e6327ed268d1.herokuapp.com/)
 
   ## Usage
   ![screenshot](utils/images/screenshot.png)
